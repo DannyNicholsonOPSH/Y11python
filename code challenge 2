@@ -1,0 +1,2 @@
+print("Welcome new player ") 
+int(input("what is your age"))
