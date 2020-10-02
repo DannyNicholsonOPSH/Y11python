@@ -4,4 +4,8 @@ Gender = input("What is your gender:")
 Email = input("What is your email:")
 PlayerName = input("Make a username")
 space = print("  ")
-print("Is This your information:",Age,space, Gender,space,Email,space,PlayerName,"")
+value = print("Is This your information:",Age,space, Gender,space,Email,space,PlayerName,"")
+input("YES or NO")
+if value is True:
+  print("ok") else:
+    print("pls redo")
