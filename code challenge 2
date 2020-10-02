@@ -1,2 +1,7 @@
 print("Welcome new player ") 
-int(input("what is your age"))
+Age = int(input("what is your age:"))
+Gender = input("What is your gender:")
+Email = input("What is your email:")
+PlayerName = input("Make a username")
+space = print("  ")
+print("Is This your information:",Age,space, Gender,space,Email,space,PlayerName,"")
