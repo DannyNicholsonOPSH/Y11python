@@ -1,3 +1,5 @@
+#Danny code challenge 2
+
 print("Welcome new player ") 
 Age = int(input("what is your age:"))
 Gender = input("What is your gender:")
